@@ -7,4 +7,7 @@
 ### 📝 Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Golang setup docker with hot reloading](https://bplociennik.com/post/golang-setup-docker-with-hot-reloading/)
+- [Django-elasticsearch-dsl rebuilding indexes with Celery task help](https://bplociennik.com/post/django-elasticsearch-dsl-celery-signal/)
+- [About](https://bplociennik.com/about/)
 <!-- BLOG-POST-LIST:END -->
